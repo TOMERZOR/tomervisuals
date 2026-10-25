@@ -1,0 +1,22 @@
+# TOMER ZOREF
+
+> Portfolio of Tomer Zoref (תומר צורף), a 19-year-old photographer and video creator in Israel with four years of experience. He shoots events, parties, brand campaigns and sports. The site is in Hebrew.
+
+## Pages
+
+- [Home](https://tomerzoref.com/): photo gallery (sports, parties, events, portraits, street), videos (reels, brand films, event recaps), about and contact
+- [Accessibility statement](https://tomerzoref.com/accessibility.html): accessibility features, known limitations and how to report an accessibility issue
+
+## Services
+
+- Event photography (צילום אירועים)
+- Party photography (צילום מסיבות)
+- Campaign photography (צילום קמפיינים)
+- Sports photography (צילום ספורט)
+- Video: reels, brand films and event recaps
+
+## Contact
+
+- Phone and WhatsApp: +972 50-888-2972 (https://wa.me/972508882972)
+- Email: tomerzoref11@gmail.com
+- Instagram: [@tomervisuals](https://www.instagram.com/tomervisuals/)
